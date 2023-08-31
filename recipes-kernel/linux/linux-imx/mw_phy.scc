@@ -1,0 +1,3 @@
+define KFEATURE_DESCRIPTION "Enable TI DP83867"
+
+kconf hardware mw_phy.cfg
