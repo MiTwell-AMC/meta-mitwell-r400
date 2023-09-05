@@ -85,9 +85,4 @@ II. Build the Layer
    $ bitbake mitwell-bsp-layer
 
 
-II. License
-===========
 
-Copyright "MiTwell, Inc."
-
-Email : francis.lee@mitwell.com.tw 
